@@ -1,0 +1,5 @@
+google-creds.json
+node_modules
+.git
+*.log
+*.sh

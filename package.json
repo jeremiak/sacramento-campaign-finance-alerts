@@ -1,0 +1,17 @@
+{
+  "name": "sacramento-campaign-finance-alerts",
+  "version": "1.0.0",
+  "description": "Check Sacramento (city and county) for recent campaign finance filings and add them a Google spreadsheet",
+  "main": "check-filings.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "@jeremiak",
+  "license": "CC-BY-SA",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "gsheetdb": "^1.0.2"
+  }
+}
